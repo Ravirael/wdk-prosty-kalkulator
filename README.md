@@ -21,10 +21,10 @@ i komórkach pamięci.
 5. Kalkulator wykonuje operacje na liczbach, kątach (wyrażonych w stopniach,
 minutach i sekundach) i komórkach pamięci.
 
-  a) Kąty są wyrażane w systemie sześćdziesiętnym, np. 34d54m12.89s oznacza kąt
+  * Kąty są wyrażane w systemie sześćdziesiętnym, np. 34d54m12.89s oznacza kąt
 34 stopni, 54 minuty i 12.89 sekund (34°54'12"89).
 
-  b) Jeżeli liczba sekund jest równa zero, może być opuszczona: 43d54m oznacza
+  * Jeżeli liczba sekund jest równa zero, może być opuszczona: 43d54m oznacza
 43°54'. Jeżeli liczba minut jest równa zero, to może być pominięta tylko wtedy,
 gdy liczba sekund jest także równa zero. Jeżeli liczba sekund jest niezerowa, a
 liczba minut równa zero, wtedy minuty nie mogą być pominięte, np.: 87d12s nie
@@ -32,7 +32,7 @@ jest poprawnym zapisem, taka wartość powinna być zapisana jako 87d00m12s.
 Początkowe zera oznaczające stopnie (a nawet minuty) mogę być pominięte,
 np.: 23m lub 0d23m
 
-  c) Niedopuszczalne są spacje między kątami, minutami, stopniami.
+  * Niedopuszczalne są spacje między kątami, minutami, stopniami.
 
 6. W wyrażeniach mogą być użyte następujące operatory: +, \*, /, unarny -.
 Dodatkowymi operatorami są: sin dla sinusa i cos dla kosinusa.
