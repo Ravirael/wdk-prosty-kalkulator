@@ -1,0 +1,14 @@
+## komentarz jednolinijkowy
+3.2 + 3d23m38.10543s = ## regula 5
+2.4 + ##komentarz do konca lini
+     5d4m =
+-3.1 + 4.3 -
+153 - 127d43m12.12s = ##instrukcja w kilku liniach
+M4 <- 4.3 + 4d34m + M1 = ## prawidlowe uzycie pamieci,
+M4 + 3 <- 4.3 + 4d34m + M1 = ## prawidlowe uzycie pamieci,
+cos(2 * sin(3.2 - 2d)) = ##
+4m + 59s = ## poprawne
+3.2 + 4d3s =
+2 d =
+45,34 =
+123d78m =

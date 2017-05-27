@@ -28,7 +28,7 @@
 %left '+' '-'
 %left '*' '/'
 %right NEGATION
-%left SIN COS
+%right SIN COS
 %%
 
 head : expression

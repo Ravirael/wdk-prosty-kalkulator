@@ -34,7 +34,7 @@ np.: 23m lub 0d23m
 
   * Niedopuszczalne są spacje między kątami, minutami, stopniami.
 
-6. W wyrażeniach mogą być użyte następujące operatory: +, \*, /, unarny -.
+6. W wyrażeniach mogą być użyte następujące operatory: +, -, \*, /, unarny -.
 Dodatkowymi operatorami są: sin dla sinusa i cos dla kosinusa.
 Wyrażenie sin cos 23d oznacza sin (cos 23°). Precedencja opratorów jest naturalna.
 By ją zmienić należy użyć nawiasów ( ).
